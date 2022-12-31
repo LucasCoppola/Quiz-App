@@ -99,3 +99,14 @@ li:hover{
   margin-right: .3rem;
   padding-top: .8rem;
 }
+
+@media (max-width: 600px){
+  .wrapper{
+    width: 500px;
+  }
+
+  .quiz-options{
+    width: 400px;
+  }
+  
+}
