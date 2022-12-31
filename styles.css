@@ -100,13 +100,13 @@ li:hover{
   padding-top: .8rem;
 }
 
-@media only screen and (max-width: 480px){
+@media (max-width: 480px){
   .wrapper{
-    width: 500px;
+    width: 400px;
   }
 
   .quiz-options{
-    width: 400px;
+    width: 350px;
   }
   
 }
